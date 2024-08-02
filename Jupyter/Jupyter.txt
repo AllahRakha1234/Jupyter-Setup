@@ -1,0 +1,7 @@
+>>>>>>>>>>>>>>>>>>>> Jupyter (Anaconda) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>> Shift + Enter ---> Run code in jupyter
+>> # Level 1 Heading , ####### Level 6 Heading
+>> 4 Types of Cells in Jupyter ( Code, Markdown, Heading, Raw etc )
+>> python -m notebook ---> Run this command in cmd while cmd opening in that dir ---> For using jupyter installed in python lib
+>> https://www.youtube.com/watch?v=41BBPoce4uo&ab_channel=RaptorAnalytics
+>> Jupyter Shortucts & Edit Shortcuts ----> On Dashboard click on Help menu option
